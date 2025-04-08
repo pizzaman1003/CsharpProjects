@@ -1,0 +1,15 @@
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.AssemblyInfoInputs.cache
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.AssemblyInfo.cs
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.csproj.CoreCompileInputs.cache
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.sourcelink.json
+/home/pizzaman/CsharpProjects/devProject/bin/Debug/net8.0/devProject
+/home/pizzaman/CsharpProjects/devProject/bin/Debug/net8.0/devProject.deps.json
+/home/pizzaman/CsharpProjects/devProject/bin/Debug/net8.0/devProject.runtimeconfig.json
+/home/pizzaman/CsharpProjects/devProject/bin/Debug/net8.0/devProject.dll
+/home/pizzaman/CsharpProjects/devProject/bin/Debug/net8.0/devProject.pdb
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.dll
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/refint/devProject.dll
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.pdb
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/devProject.genruntimeconfig.cache
+/home/pizzaman/CsharpProjects/devProject/obj/Debug/net8.0/ref/devProject.dll
