@@ -26,6 +26,7 @@ namespace MathGame
                 else if (numberGuess == winNum)
                 {
                     Console.WriteLine($"You did it! My number was {winNum}");
+                    win = true;
                 }
             } while (win == false);
         }
